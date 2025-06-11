@@ -1,6 +1,6 @@
 # fifo_ct
 
-**fico_ct** es un pequeño script en Python que convierte el CSV “Entrada doble” exportado desde [CoinTracking](https://cointracking.info) en un informe listo para copiar a **Renta WEB** (apartado F2), aplicando el método **FIFO global** que exige la Agencia Tributaria española.
+**fifo_ct** es un pequeño script en Python que convierte el CSV “Entrada doble” exportado desde [CoinTracking](https://cointracking.info) en un informe listo para copiar a **Renta WEB** (apartado F2), aplicando el método **FIFO global** que exige la Agencia Tributaria española.
 
 ---
 
