@@ -54,8 +54,8 @@ En CoinTracking → **Informe → Entrada doble → Descargar CSV**.
 ### 2 · Ejecuta el script
 
 ```bash
-# procesa todas las monedas para 2024 (CSV en español con «;")
-python fifo_ct.py "CoinTracking - Entrada doble.csv" -y 2024 --sep ";"
+# procesa todas las monedas para 2024
+python fifo_ct.py "CoinTracking - Entrada doble.csv" -y 2024
 
 # procesa SOLO BTC
 python fifo_ct.py "CoinTracking - Entrada doble.csv" -y 2024 --crypto BTC
